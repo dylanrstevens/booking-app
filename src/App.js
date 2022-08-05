@@ -29,7 +29,6 @@ export default function App() {
   }
 
   return (
-    //FRAGMENT TO RETURN MULTIPLE ELEMENTS
     <>
     <div className='App'>
       <div className='header'>
@@ -59,7 +58,7 @@ export default function App() {
       </LocalizationProvider>
       <div className='Text'>
         <p>
-          Please select how many hours you would will need for your move (100$ per hour for weekdays, 150$ per hour for weekends)
+          Please select how many hours you will need for your move (100$ per hour for weekdays, 150$ per hour for weekends)
         </p>
       </div>
       
